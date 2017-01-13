@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortress.CSharp", "Fortress.CSharp.csproj", "{D5E16CE6-D239-B60E-8A3E-C88C11CA321B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fortress.CSharpHexCoordTests", "..\Fortress.CSharpHexCoordTests\Fortress.CSharpHexCoordTests.csproj", "{E1FAF1FB-5819-404D-BEA8-3F49E4678FB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5E16CE6-D239-B60E-8A3E-C88C11CA321B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E16CE6-D239-B60E-8A3E-C88C11CA321B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E16CE6-D239-B60E-8A3E-C88C11CA321B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E16CE6-D239-B60E-8A3E-C88C11CA321B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1FAF1FB-5819-404D-BEA8-3F49E4678FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FAF1FB-5819-404D-BEA8-3F49E4678FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FAF1FB-5819-404D-BEA8-3F49E4678FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FAF1FB-5819-404D-BEA8-3F49E4678FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
