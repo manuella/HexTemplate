@@ -1,0 +1,17 @@
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.xml
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_obj\Debug\Fortress.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\Evan\Documents\Fortress\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
